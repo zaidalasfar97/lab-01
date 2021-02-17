@@ -48,14 +48,10 @@ table {
 }
 
 
-div {
+div{
     background: rgb(173, 171, 171);
     align-items: center;
     text-align: center;
-    /* line-height: ;
-    vertical-align: auto; */
-    /* padding: 20px; */
     box-sizing: border-box;
     border: solid black 2px;
-    
 }
